@@ -1,12 +1,5 @@
-## Hi there 👋
+## 호떡 그룹
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+남들이 공부하지 않는 힙한 것을 몰래 공부하는 모임
+최대한 남들이 공부하는것은 지향한다
+하지만 그들의 최후는 결국 호떡집 or 치킨집
